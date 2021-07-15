@@ -75,15 +75,15 @@ case $opt in
         version="18.40-673869-ubuntu-16.04";break
     ;;
     "20.50-1234663-ubuntu-18.04")
-	wget http://192.168.0.6/Multimedia/Dateien/amdgpu-pro-20.50-1234663-ubuntu-18.04.tar.xz
+	wget http://192.168.0.6/Public/amdgpu-pro-20.50-1234663-ubuntu-18.04.tar.xz
         version="20.50-1234663-ubuntu-18.04";break
     ;;
     "21.10-1244864-ubuntu-18.04")
-	wget http://192.168.0.6/Multimedia/Dateien/amdgpu-pro-21.10-1244864-ubuntu-18.04.tar.xz
+	wget http://192.168.0.6/Public/amdgpu-pro-21.10-1244864-ubuntu-18.04.tar.xz
         version="21.10-1244864-ubuntu-18.04";break
     ;;
 	"21.20-1274019-ubuntu-18.04")
-	wget http://192.168.0.6/Multimedia/Dateien/amdgpu-pro-21.20-1274019-ubuntu-18.04.tar.xz
+	wget http://192.168.0.6/Public/amdgpu-pro-21.20-1274019-ubuntu-18.04.tar.xz
         version="21.20-1274019-ubuntu-18.04";break
 	;;
 	"19.20-812932-ubuntu-18.04")
